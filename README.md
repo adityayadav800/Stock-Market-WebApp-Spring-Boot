@@ -1,7 +1,8 @@
-This repository contains 3 different folders mentioned below:
-1. Screenshot of working application
-2. Frontend - Angular
-3. Backend - Spring Boot Microservices
+This repository contains 2 different Branches mentioned below:
+1. Main Branch : Frontend - Angular
+2. Master Branch : Backend - Spring Boot Microservices
+
+Both of which contain Screenshot folder. 
 
 ## Frontend :
 Frontend contains the Angular developed part which performs all the basic functions as asked.
